@@ -1,0 +1,27 @@
+.WelcomeBanner {
+    width: 65%;
+    height: auto;
+    /* padding: 60px; */
+    border: 1px solid rgb(114, 199, 255);
+    border-radius: 50px;
+    margin-top:43px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom: 43px;
+    -webkit-box-shadow: 15px 15px 15px 15px #2225ff;
+    box-shadow: 1px 0px 35px 15px #0b0c47;
+    text-align: center;
+  }
+
+
+.btn-xl {
+  padding: 10px 22px;
+  font-size: 30px;
+  border-radius: 10px;
+  box-shadow: 1px 0px 12px 3px #3f8cad;
+  background-color:#1f4eb3 ;
+  /* border: 3px solid #022e41; */
+  width:60%;
+}
+
+

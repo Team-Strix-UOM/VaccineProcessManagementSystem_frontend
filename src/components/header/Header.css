@@ -1,0 +1,14 @@
+.links{
+    color: rgb(27, 216, 207);
+    font-size: 29px;
+    font-weight: "bold";
+}
+
+.links:hover{
+    color: rgb(200, 231, 240);
+}
+
+.headerlogo{
+    width: 100px;
+    height: auto;
+}
